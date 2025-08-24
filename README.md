@@ -53,8 +53,7 @@ Hasil visualisasi berupa **Confusion Matrix, WordCloud, dan Distribusi Sentimen*
 ---
 
 ## 📂 Outputs
-- Confusion Matrix → `confusion_matrix_rf.png`  
-- Classification Report → `classification_report_rf.csv`  
+- Confusion Matrix → `confusion_matrix_rf.png`   
 - WordCloud per app & sentimen → `wc_DANA_positive.png`, `wc_OVO_negative.png`, dll.  
 - Distribusi Sentimen → `distribusi_sentimen.png`  
 
